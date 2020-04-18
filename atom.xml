@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XZQ�Ĳ���</title>
+  
+  <subtitle>Welcome!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://xuziqiangnb.github.io/"/>
+  <updated>2020-04-17T09:34:47.431Z</updated>
+  <id>https://xuziqiangnb.github.io/</id>
+  
+  <author>
+    <name>�佾����</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="https://xuziqiangnb.github.io/2020/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <id>https://xuziqiangnb.github.io/2020/04/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</id>
+    <published>2020-04-17T09:34:47.000Z</published>
+    <updated>2020-04-17T09:34:47.431Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xuziqiangnb.github.io/2020/04/17/hello-world/"/>
+    <id>https://xuziqiangnb.github.io/2020/04/17/hello-world/</id>
+    <published>2020-04-17T09:30:21.169Z</published>
+    <updated>2020-04-17T09:30:21.169Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>UML六大关系梳理</title>
+    <link href="https://xuziqiangnb.github.io/2020/04/17/UML%E5%85%AD%E5%A4%A7%E5%85%B3%E7%B3%BB/"/>
+    <id>https://xuziqiangnb.github.io/2020/04/17/UML%E5%85%AD%E5%A4%A7%E5%85%B3%E7%B3%BB/</id>
+    <published>2020-04-16T16:00:00.000Z</published>
+    <updated>2020-04-17T16:01:11.469Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Unified-Modeling-Language"><a href="#Unified-Modeling-Language" class="headerlink" title="Unified Modeling Language"></a>Unified Modeling Language</h3><p><img src="https://i.loli.net/2019/08/06/ysxabt1DfXLoBKj.png" alt="对象耦合关系或类与类关联关系"></p><h4 id="类与类关联关系"><a href="#类与类关联关系" class="headerlink" title="类与类关联关系"></a>类与类关联关系</h4><h5 id="继承（泛化-Generalization）"><a href="#继承（泛化-Generalization）" class="headerlink" title="继承（泛化 Generalization）"></a>继承（泛化 Generalization）</h5><p>泛化关系实际上就是继承关系，依赖关系的特例。</p><h5 id="实现（Realization）"><a href="#实现（Realization）" class="headerlink" title="实现（Realization）"></a>实现（Realization）</h5><p>实现关系实际上就是 A类 实现 B接口，依赖关系的特例。</p><hr><h4 id="对象耦合关系"><a href="#对象耦合关系" class="headerlink" title="对象耦合关系"></a>对象耦合关系</h4><h5 id="依赖（Dependence）"><a href="#依赖（Dependence）" class="headerlink" title="依赖（Dependence）"></a>依赖（Dependence）</h5><p>只要是在类中用到了对方，那么他们之间就存在依赖关系。</p><ul><li>类中用到了对方；</li><li>类的成员属性；</li><li>方法的返回类型；</li><li>方法接收的参数类型；</li><li>方法中使用到。</li></ul><h5 id="关联（Association）"><a href="#关联（Association）" class="headerlink" title="关联（Association）"></a>关联（Association）</h5><p>类与类之间的关系，依赖关系的特例。</p><p>关联具有导航性：即双向关系或单向关系。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Person</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> IDCard idCard;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">IDCard</span> </span>&#123;</span><br><span class="line">    <span class="comment">//private Person person;</span></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h5 id="聚合（Aggregation）"><a href="#聚合（Aggregation）" class="headerlink" title="聚合（Aggregation）"></a>聚合（Aggregation）</h5><p>表示的是整体和部分的关系，整体与部分可以分开，关联关系的特例。</p><p>聚合关系是关联关系的特例，所以他具有关联的导航性与多重性。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Computer</span> </span>&#123;</span><br><span class="line">    <span class="keyword">private</span> Mouse mouse;</span><br><span class="line">    <span class="keyword">private</span> Keyboard keyboard;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">setMouse</span><span class="params">(Mouse mouse)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.mouse = mouse;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="function"><span class="keyword">public</span> <span class="keyword">void</span> <span class="title">setKeyboard</span><span class="params">(Keyboard keyboard)</span> </span>&#123;</span><br><span class="line">        <span class="keyword">this</span>.keyboard = keyboard;</span><br><span class="line">    &#125;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Mouse</span> </span>&#123;&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">Keyboard</span> </span>&#123;&#125;</span><br></pre></td></tr></table></figure><h5 id="组合（Composite）"><a href="#组合（Composite）" class="headerlink" title="组合（Composite）"></a>组合（Composite）</h5><p>整体与部分的关系，但是整体与部分不可以分开，关联关系的特例。</p><p>级联删除就是组合关系。</p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="class"><span class="keyword">class</span> <span class="title">Computer</span> </span>&#123;</span><br><span class="line">   <span class="keyword">private</span> CPU cpu = <span class="keyword">new</span> CPU();</span><br><span class="line">   <span class="keyword">private</span> SSD ssd = <span class="keyword">new</span> SSD();</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">CPU</span> </span>&#123;&#125;</span><br><span class="line"></span><br><span class="line"><span class="class"><span class="keyword">class</span> <span class="title">SSD</span> </span>&#123;&#125;</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;Unified-Modeling-Language&quot;&gt;&lt;a href=&quot;#Unified-Modeling-Language&quot; class=&quot;headerlink&quot; title=&quot;Unified Modeling Language&quot;&gt;&lt;/a&gt;Unified Mod
+      
+    
+    </summary>
+    
+    
+    
+      <category term="设计模式" scheme="https://xuziqiangnb.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
+  
+</feed>
